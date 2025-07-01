@@ -190,6 +190,7 @@ public class client implements ActionListener {
 			
 		}catch(Exception e) {
 			e.printStackTrace();
+			//Change1
 		}
 	}
 
